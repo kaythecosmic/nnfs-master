@@ -21,8 +21,6 @@
 
 **The scoring below is to be updated**
 
-Below is the table with ratings for each parameter, followed by the final scores for PyTorch and Keras.
-
 | **Feature**                          | **PyTorch (Rating 1-10)** | **Keras (Rating 1-10)** |
 |--------------------------------------|---------------------------|-------------------------|
 | **Core Framework**                   | 9                         | 8                       |
